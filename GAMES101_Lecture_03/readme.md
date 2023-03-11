@@ -9,7 +9,8 @@
 ![GAMES101_Lecture_03_15.png](./GAMES101_Lecture_03_15.png)
 ![GAMES101_Lecture_03_16.png](./GAMES101_Lecture_03_16.png)
 ![GAMES101_Lecture_03_17.png](./GAMES101_Lecture_03_17.png)
-
+旋转的性质：
+![](./QQ%E6%88%AA%E5%9B%BE20230311180459.png)
 怎么求得系数矩阵？代入点，解方程/矩阵。
 ![图 1](./3dbda2dd7b29de7ec375c60c771701ef65a4124199c66ccaed20a86c7942c537.png)  
 
@@ -30,6 +31,9 @@
 ![GAMES101_Lecture_03_34.png](./GAMES101_Lecture_03_34.png)
 ![GAMES101_Lecture_03_35.png](./GAMES101_Lecture_03_35.png)
 ![GAMES101_Lecture_03_36.png](./GAMES101_Lecture_03_36.png)
+
+做复杂变化，先移动到原点。
+
 ![GAMES101_Lecture_03_37.png](./GAMES101_Lecture_03_37.png)
 ![GAMES101_Lecture_03_38.png](./GAMES101_Lecture_03_38.png)
 ![GAMES101_Lecture_03_39.png](./GAMES101_Lecture_03_39.png)
