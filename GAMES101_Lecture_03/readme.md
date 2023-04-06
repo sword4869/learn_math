@@ -1,7 +1,4 @@
-![GAMES101_Lecture_03_00.png](./GAMES101_Lecture_03_00.png)
-![GAMES101_Lecture_03_03.png](./GAMES101_Lecture_03_03.png)
-![GAMES101_Lecture_03_09.png](./GAMES101_Lecture_03_09.png)
-![GAMES101_Lecture_03_10.png](./GAMES101_Lecture_03_10.png)
+
 ![GAMES101_Lecture_03_11.png](./GAMES101_Lecture_03_11.png)
 ![GAMES101_Lecture_03_12.png](./GAMES101_Lecture_03_12.png)
 ![GAMES101_Lecture_03_13.png](./GAMES101_Lecture_03_13.png)
@@ -38,3 +35,10 @@
 ![GAMES101_Lecture_03_38.png](./GAMES101_Lecture_03_38.png)
 ![GAMES101_Lecture_03_39.png](./GAMES101_Lecture_03_39.png)
 ![GAMES101_Lecture_03_40.png](./GAMES101_Lecture_03_40.png)
+
+
+## 左右手坐标系
+
+右手法则，用右手的**4个指头从a转向b**，大拇指朝向就是aXb的方向。
+
+![图 2](../images/6d063cd15878e415ddb39c6cd88bce1593b60e2376f06373b7aa7493f9b87758.png)  
